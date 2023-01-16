@@ -77,7 +77,7 @@ const TopNavigation = () => {
             </nav>
             <div class="container-fluid py-3">
                 <div class="row">
-                    <div class="col">Content</div>
+                    <div class="col"></div>
                 </div>
             </div>
         </>
