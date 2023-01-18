@@ -22,34 +22,34 @@ const TopNavigation = () => {
                     >
                         <span class="navbar-toggler-icon"></span>
                     </button>
-                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <div class="collapse navbar-collapse fs-6" id="navbarSupportedContent">
                         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                             <li class="nav-item">
-                                <a class="nav-link active" aria-current="page" href="/">
-                                    My Account
+                                <a class="nav-link" aria-current="page" href="/">
+                                <i class="fa-regular fa-user py-5"></i> My Account
                                 </a>
                             </li>
 
                             <li class="nav-item">
-                                <a class="nav-link active" aria-current="page" href="/">
+                                <a class="nav-link " aria-current="page" href="/">
                                     Wishlist
                                 </a>
                             </li>
 
                             <li class="nav-item">
-                                <a class="nav-link active" href="/">
+                                <a class="nav-link" href="/">
                                     My Cart
                                 </a>
                             </li>
 
                             <li class="nav-item">
-                                <a class="nav-link active" href="/">
+                                <a class="nav-link" href="/">
                                     Checkout
                                 </a>
                             </li>
 
                             <li class="nav-item">
-                                <a class="nav-link active" href="/">
+                                <a class="nav-link" href="/">
                                     login
                                 </a>
                             </li>
@@ -99,7 +99,7 @@ const TopNavigation = () => {
 
             </div>
 
-            <Nav className="container-fluid justify-content-start px-5 bg-light py-3">
+            <Nav className="container-fluid justify-content-start px-5 bg-light py-3 fs-6">
                 <Nav.Item>
                     <Nav className="px-3" href="/home">
                         HOME
