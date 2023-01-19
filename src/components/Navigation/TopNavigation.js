@@ -38,19 +38,19 @@ const TopNavigation = () => {
 
                             <li class="nav-item">
                                 <a class="nav-link" href="/">
-                                    My Cart
+                                <i class="fa-regular fa-user"></i> My Cart
                                 </a>
                             </li>
 
                             <li class="nav-item">
                                 <a class="nav-link" href="/">
-                                    Checkout
+                                <i class="fa-regular fa-user"></i> Checkout
                                 </a>
                             </li>
 
                             <li class="nav-item">
                                 <a class="nav-link" href="/">
-                                    login
+                                <i class="fa-regular fa-user"></i> login
                                 </a>
                             </li>
                         </ul>
