@@ -26,7 +26,7 @@ const TopNavigation = () => {
                         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                             <li class="nav-item">
                                 <a class="nav-link" aria-current="page" href="/">
-                                <i class="fa-regular fa-user py-5"></i> My Account
+                                <i class="fa-regular fa-user"></i> My Account
                                 </a>
                             </li>
 
@@ -99,7 +99,7 @@ const TopNavigation = () => {
 
             </div>
 
-            <Nav className="container-fluid justify-content-start px-5 bg-light py-3 fs-6">
+            <Nav className="container-fluid justify-content-start px-5 bg-light py-3">
                 <Nav.Item>
                     <Nav className="px-3" href="/home">
                         HOME
