@@ -83,7 +83,8 @@ const TopNavigation = () => {
                     src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1qIwph8ov6iK7ldfl_lmj_HbFxsNDW0o3vA&usqp=CAU"
                 />
 
-                <button type="button" class="float-end border p-3">
+                
+                <button type="button" class="float-end border p-3 mt-5">
                     Cart- $ 100
                     <svg
                         xmlns="http://www.w3.org/2000/svg"
