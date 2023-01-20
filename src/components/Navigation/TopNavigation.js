@@ -26,7 +26,7 @@ const TopNavigation = () => {
                         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                             <li class="nav-item">
                                 <a class="nav-link" aria-current="page" href="/">
-                                <i class="fa-regular fa-user"></i> My Account
+                                <i class="fa-regular fa-user"> </i> My Account
                                 </a>
                             </li>
 
@@ -38,19 +38,19 @@ const TopNavigation = () => {
 
                             <li class="nav-item">
                                 <a class="nav-link" href="/">
-                                <i class="fa-regular fa-user"></i> My Cart
+                                <i class="fa-regular fa-user"> </i> My Cart
                                 </a>
                             </li>
 
                             <li class="nav-item">
                                 <a class="nav-link" href="/">
-                                <i class="fa-regular fa-user"></i> Checkout
+                                <i class="fa-regular fa-user"> </i> Checkout
                                 </a>
                             </li>
 
                             <li class="nav-item">
                                 <a class="nav-link" href="/">
-                                <i class="fa-regular fa-user"></i> login
+                                <i class="fa-regular fa-user"> </i> login
                                 </a>
                             </li>
                         </ul>
