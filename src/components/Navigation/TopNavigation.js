@@ -32,7 +32,7 @@ const TopNavigation = () => {
 
                             <li class="nav-item">
                                 <a class="nav-link " aria-current="page" href="/">
-                                    Wishlist
+                                <i class="fa-solid fa-heart"></i> Wishlist
                                 </a>
                             </li>
 
@@ -100,44 +100,44 @@ const TopNavigation = () => {
 
             </div>
 
-            <Nav className="container-fluid justify-content-start px-5 bg-light py-3">
+            <Nav className="container-fluid justify-content-start px-5 bg-light ">
                 <Nav.Item>
-                    <Nav className="px-3" href="/home">
+                    <Nav className="p-3 nav-two" href="/home">
                         HOME
                     </Nav>
                 </Nav.Item>
                 <Nav.Item>
-                    <Nav className="px-3" href="link-1">
+                    <Nav className="p-3 nav-two" href="link-1">
                         SHOP PAGE
                     </Nav>
                 </Nav.Item>
                 <Nav.Item>
-                    <Nav className="px-3" href="link-2">
+                    <Nav className="p-3 nav-two" href="link-2">
                         SINGLE PRODUCT{" "}
                     </Nav>
                 </Nav.Item>
                 <Nav.Item>
-                    <Nav className="px-3" href="link-3">
+                    <Nav className="p-3 nav-two" href="link-3">
                         CART
                     </Nav>
                 </Nav.Item>
                 <Nav.Item>
-                    <Nav className="px-3" href="link-4">
+                    <Nav className="p-3 nav-two" href="link-4">
                         CHECKOUT
                     </Nav>
                 </Nav.Item>
                 <Nav.Item>
-                    <Nav className="px-3" href="link-5">
+                    <Nav className="p-3 nav-two" href="link-5">
                         CATEGORY
                     </Nav>
                 </Nav.Item>
                 <Nav.Item>
-                    <Nav className="px-3" href="link-6">
+                    <Nav className="p-3 nav-two" href="link-6">
                         OTHERS
                     </Nav>
                 </Nav.Item>
                 <Nav.Item>
-                    <Nav className="px-3" href="link-7">
+                    <Nav className="p-3 nav-two" href="link-7">
                         CONTACT
                     </Nav>
                 </Nav.Item>

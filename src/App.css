@@ -5,3 +5,7 @@
   color: #F66D00 !important; 
   text-decoration: underline;
 }
+.nav-two:hover{
+  color: white;
+  background: #5A88CA !important; 
+}
