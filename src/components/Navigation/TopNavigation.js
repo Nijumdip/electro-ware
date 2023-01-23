@@ -139,6 +139,7 @@ const TopNavigation = () => {
                 <Nav.Item>
                     <Nav className="p-3 nav-two" href="link-7">
                         CONTACT
+                        CONTACT
                     </Nav>
                 </Nav.Item>
             </Nav>
